@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>One Page Wonder - Start Bootstrap Template</title>
+    <title>Aplikasi Perpustakaan</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/Public-Depan/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -40,8 +40,8 @@
     <header class="masthead text-center text-white">
       <div class="masthead-content">
         <div class="container">
-          <h1 class="masthead-heading mb-0">One Page Wonder</h1>
-          <h2 class="masthead-subheading mb-0">Will Rock Your Socks Off</h2>
+          <h1 class="masthead-heading mb-0">Aplikasi Perpustakaan</h1>
+          {{-- <h2 class="masthead-subheading mb-0">Will Rock Your Socks Off</h2> --}}
           <a href="/tampil" class="btn btn-primary btn-xl rounded-pill mt-5">LOGIN</a>
         </div>
       </div>
@@ -61,7 +61,7 @@
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
-              <h2 class="display-4">For those about to rock...</h2>
+              <h2 class="display-4">Aina Noorjannah</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
             </div>
           </div>
