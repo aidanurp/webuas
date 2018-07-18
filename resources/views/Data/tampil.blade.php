@@ -1,6 +1,6 @@
 @extends('Data.Layouts.Master')
 @section('content')
-
+<img src="cinqueterre.jpg" class="img-circle" alt="Cinque Terre">
 	<a class="btn btn-primary" href="{{ Route('create') }}">Tambah Data</a>
 	<br><br>
 
